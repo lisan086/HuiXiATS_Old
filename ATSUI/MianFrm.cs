@@ -7,10 +7,7 @@ using ATSJianMianJK.QuanXian;
 using ATSJianMianJK.XiTong.Frm.FM;
 using ATSJianMianJK.XiTong.Model;
 using ATSJianMianJK.XiTong.XianShiDuFrm.Frm;
-using ATSUI.KJ;
-using ATSUI.Properties;
 using BaseUI.FuFrom.XinWeiHuFrm;
-using BaseUI.UC;
 using CommLei.DataChuLi;
 using Common.DataChuLi;
 using JieMianLei.FuFrom;
@@ -19,15 +16,9 @@ using SSheBei.PeiZhi;
 using SSheBei.ZongKongZhi;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
